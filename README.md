@@ -24,4 +24,5 @@ To run the application locally, follow these steps:
 
 
 screenshot:
-![screenshot]()
+
+![screenshot](https://github.com/Matilda-bit/investment-calculator/blob/main/src/assets/Screenshot%202024-04-19%20at%2020.19.40.png?raw=true)
